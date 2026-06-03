@@ -1,1 +1,1 @@
-Scad Re-Event converter to GrandMA3
+Scad Re-Event MVR converter to GrandMA3 compatible MVR
